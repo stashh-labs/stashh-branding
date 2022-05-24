@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 1"
+   viewBox="0 0 23654.016 14277.23"
+   width="6in"
+   height="4in"
+   class="css-1tw2bcv"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="card-back.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\oline\Desktop\card-back.png"
+   inkscape:export-xdpi="2000"
+   inkscape:export-ydpi="2000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="2"
+     inkscape:cx="212.25"
+     inkscape:cy="238.25"
+     inkscape:window-width="2057"
+     inkscape:window-height="1013"
+     inkscape:window-x="3332"
+     inkscape:window-y="110"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g9474"
+     inkscape:document-units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false">
+    <sodipodi:guide
+       position="965.05101,9090.58"
+       orientation="1,0"
+       id="guide961" />
+    <sodipodi:guide
+       position="22647.899,9982.9069"
+       orientation="1,0"
+       id="guide963" />
+    <sodipodi:guide
+       position="-11683.277,13403.493"
+       orientation="0,-1"
+       id="guide965" />
+    <sodipodi:guide
+       position="-12299.267,892.32677"
+       orientation="0,-1"
+       id="guide967" />
+  </sodipodi:namedview>
+  <defs
+     id="defs15">
+    <linearGradient
+       id="linearGradient306">
+      <stop
+         style="stop-color:#1c2c4d;stop-opacity:1"
+         offset="0"
+         id="stop302" />
+      <stop
+         style="stop-color:#200e36;stop-opacity:1"
+         offset="1"
+         id="stop304" />
+    </linearGradient>
+    <linearGradient
+       id="prefix__a"
+       x1="455.51001"
+       y1="1008.52"
+       x2="994.83002"
+       y2="1008.52"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#84d5d1"
+         id="stop2" />
+      <stop
+         offset="0.51"
+         stop-color="#5b87e1"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#806ce0"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="prefix__b"
+       x1="299.89999"
+       y1="1211.4301"
+       x2="913.03003"
+       y2="1211.4301"
+       gradientTransform="matrix(0.89,0.11,0.11,0.9,-353.39,-297.52)"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       id="prefix__c"
+       x1="798.96997"
+       y1="853.39001"
+       x2="1182.0699"
+       y2="853.39001"
+       gradientTransform="matrix(1.42,0,0,0.97,-678.68,-334.13)"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       id="prefix__d"
+       x1="253.63"
+       y1="772.84003"
+       x2="784.57001"
+       y2="772.84003"
+       gradientTransform="matrix(0.82,-0.05,-0.11,0.92,-103.48,-285.07)"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       id="prefix__e"
+       x1="228.42999"
+       y1="132.94"
+       x2="1216.15"
+       y2="132.94"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       id="prefix__f"
+       x1="1483.5"
+       y1="812.15002"
+       x2="2014.42"
+       y2="812.15002"
+       gradientTransform="matrix(-0.82,-0.05,0.11,0.92,2543.06,-255.2)"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       id="prefix__g"
+       x1="1418.13"
+       y1="1087.5"
+       x2="2014.51"
+       y2="1087.5"
+       gradientTransform="matrix(-0.89,0.11,-0.11,0.9,2770.01,-297.52)"
+       xlink:href="#prefix__a" />
+    <linearGradient
+       xlink:href="#prefix__a"
+       id="linearGradient46"
+       gradientUnits="userSpaceOnUse"
+       x1="455.51001"
+       y1="1008.52"
+       x2="994.83002"
+       y2="1008.52" />
+    <linearGradient
+       xlink:href="#linearGradient306"
+       id="linearGradient308"
+       x1="-38297.727"
+       y1="-2229.1086"
+       x2="-38297.727"
+       y2="20187.582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0472727,0,0,0.69818176,51302.626,852.91181)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient16949"
+       x1="8245.9775"
+       y1="1951.2672"
+       x2="11355.812"
+       y2="1951.2672"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1642.64)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient16949-7"
+       x1="8245.9775"
+       y1="1951.2672"
+       x2="11355.812"
+       y2="1951.2672"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7142857,0,0,1.7142857,-13529.172,10371.757)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient21754"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7142857,0,0,1.7142857,4227.2532,10358.211)"
+       x1="8245.9775"
+       y1="1951.2672"
+       x2="11355.812"
+       y2="1951.2672" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient14247"
+       x1="6669.0181"
+       y1="1389.2195"
+       x2="7073.1616"
+       y2="1389.2195"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1116.6103,2169.4469)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient42733"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.18155668,-0.67634222,0,6695.8821,912.30702)"
+       x1="479.92139"
+       y1="1424.1033"
+       x2="13302.821"
+       y2="1424.1033" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#prefix__a"
+       id="linearGradient1432"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.18155668,0.67634222,0,4771.8332,6225.8865)"
+       x1="479.92139"
+       y1="1424.1033"
+       x2="13302.821"
+       y2="1424.1033" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient308);fill-opacity:1;fill-rule:evenodd;stroke-width:35.1155"
+     id="rect258"
+     width="23654.016"
+     height="15769.344"
+     x="0.0001875"
+     y="-746.05688"
+     sodipodi:insensitive="true" />
+  <g
+     id="g8391-2"
+     transform="matrix(1.7142857,0,0,1.7142857,87.113338,402.06724)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:41.066"
+       x="6848.2715"
+       y="315.4895"
+       id="text2329-7"><tspan
+         sodipodi:role="line"
+         id="tspan2327-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:41.066"
+         x="6848.2715"
+         y="315.4895">claim your free sBadge</tspan></text>
+  </g>
+  <g
+     id="g2255"
+     transform="matrix(1.7142857,0,0,1.7142857,-1.3541927,1020.1635)">
+    <path
+       style="fill:none;stroke:url(#linearGradient42733);stroke-width:82.132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5732.701,999.44022 V 3327.5237"
+       id="path8426-1" />
+    <path
+       style="fill:none;stroke:url(#linearGradient1432);stroke-width:82.132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5735.0143,6138.7533 V 3810.6699"
+       id="path8426-1-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:547.547px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;fill:url(#linearGradient14247);fill-opacity:1;stroke-width:41.066"
+       x="5540.3613"
+       y="3673.4045"
+       id="text10062"><tspan
+         sodipodi:role="line"
+         id="tspan10060"
+         style="font-size:547.547px;fill:url(#linearGradient14247);fill-opacity:1;stroke-width:41.066"
+         x="5540.3613"
+         y="3673.4045">or</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1126.38px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient16949-7);fill-opacity:1;stroke-width:70.3989"
+     x="3272.3616"
+     y="14032.174"
+     id="text2329-8-1"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan2327-9-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1126.38px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient16949-7);fill-opacity:1;stroke-width:70.3989"
+       x="3272.3616"
+       y="14032.174">@stashhapp</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1126.38px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient21754);fill-opacity:1;stroke-width:70.3989"
+     x="21028.785"
+     y="14018.629"
+     id="text2329-8-1-7"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan2327-9-8-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1126.38px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient21754);fill-opacity:1;stroke-width:70.3989"
+       x="21028.785"
+       y="14018.629">stashh.io</tspan></text>
+  <g
+     id="g42611"
+     transform="matrix(1.7142857,0,0,1.7142857,-25682.056,-300.49721)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+       x="17863.711"
+       y="6399.5762"
+       id="text2329-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan2327-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+         x="17863.711"
+         y="6399.5762">scan the qr code</tspan></text>
+    <g
+       id="g9474-8"
+       transform="matrix(1.8471897,0,0,1.8471897,12815.312,-6776.9031)">
+      <rect
+         style="fill:#ffffff;stroke-width:20.8015"
+         id="rect768-1"
+         height="1971.168"
+         x="1747.4323"
+         y="4829.4648"
+         rx="111.15805"
+         ry="111.15805"
+         width="1971.168" />
+      <text
+         xml:space="preserve"
+         style="font-size:1314.11px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;stroke-width:41.066"
+         x="4335.2627"
+         y="5810.1279"
+         id="text4708-0"><tspan
+           sodipodi:role="line"
+           id="tspan4706-8"
+           style="font-size:1314.11px;stroke-width:41.066"
+           x="4335.2627"
+           y="5810.1279" /></text>
+    </g>
+  </g>
+  <g
+     id="g42603"
+     transform="matrix(1.7142857,0,0,1.7142857,-15263.024,7645.9086)">
+    <g
+       id="g8391"
+       transform="translate(281.01222,167.8149)">
+      <g
+         id="g27641"
+         transform="translate(11477.947,-1355.178)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+           x="6899.0879"
+           y="2137.627"
+           id="text2329"><tspan
+             sodipodi:role="line"
+             id="tspan2327"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+             x="6899.0879"
+             y="2137.627">to claim at claim.stashh.io</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient16949);fill-opacity:1;stroke-width:41.066"
+           x="8158.2544"
+           y="2135.2429"
+           id="text2329-8"><tspan
+             sodipodi:role="line"
+             id="tspan2327-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:url(#linearGradient16949);fill-opacity:1;stroke-width:41.066"
+             x="8158.2544"
+             y="2135.2429">claim.stashh.io</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+       x="18654.23"
+       y="-1173.7334"
+       id="text2329-7-1-6"
+       inkscape:transform-center-x="4404.3285"
+       inkscape:transform-center-y="2977.285"><tspan
+         sodipodi:role="line"
+         id="tspan2327-1-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:657.056px;font-family:Stickler;-inkscape-font-specification:Stickler;text-align:center;text-anchor:middle;fill:#9f9f9f;fill-opacity:1;stroke-width:41.066"
+         x="18654.23"
+         y="-1173.7334">use this claim code</tspan></text>
+    <g
+       id="g9474"
+       transform="translate(9588.9109,-5749.1606)">
+      <rect
+         style="fill:#ffffff;stroke-width:28.7889"
+         id="rect768"
+         width="5970.8486"
+         height="1246.4501"
+         x="6079.8955"
+         y="4829.4648"
+         rx="205.33"
+         ry="205.33" />
+    </g>
+  </g>
+</svg>
