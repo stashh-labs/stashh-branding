@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    data-name="Layer 1"
-   viewBox="0 0 30799.5 9295.0717"
-   width="750"
-   height="250"
+   viewBox="0 0 22586.3 20449.158"
+   width="550"
+   height="550"
    class="css-1tw2bcv"
    version="1.1"
    id="svg31"
-   sodipodi:docname="logo wordmark.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="wordmark.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="..\rasterised\wordmark.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,17 +28,19 @@
      showgrid="false"
      units="px"
      inkscape:zoom="1.6171429"
-     inkscape:cx="350"
-     inkscape:cy="125.22085"
-     inkscape:window-width="3200"
-     inkscape:window-height="1261"
-     inkscape:window-x="3111"
+     inkscape:cx="424.51412"
+     inkscape:cy="224.77915"
+     inkscape:window-width="2496"
+     inkscape:window-height="1575"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg31"
      inkscape:document-units="in"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs15">
     <linearGradient
@@ -132,59 +137,20 @@
        x2="-38297.727"
        y2="20187.582"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3636364,0,0,0.45454543,66800.297,555.28107)" />
+       gradientTransform="translate(48986.884,1221.618)" />
   </defs>
   <rect
-     style="fill:url(#linearGradient308);fill-opacity:1;fill-rule:evenodd;stroke-width:32.3313"
+     style="fill:url(#linearGradient308);fill-opacity:1;fill-rule:evenodd;stroke-width:41.0663"
      id="rect258"
-     width="30799.5"
-     height="10266.5"
-     x="2.2271252e-12"
-     y="-485.71414"
-     sodipodi:insensitive="true" />
-  <g
-     id="g42"
-     transform="matrix(5.1061653,0,0,5.1061653,929.8477,1325.1839)">
-    <path
-       fill="url(#prefix__a)"
-       d="M 725.17,1301.31 455.51,715.72 h 539.32 z"
-       id="path17"
-       style="fill:url(#linearGradient46)" />
-    <path
-       fill="url(#prefix__b)"
-       d="M 375.57,704.88 630.78,1247.98 0,460.57 Z"
-       id="path19"
-       style="fill:url(#prefix__b)" />
-    <path
-       fill="url(#prefix__c)"
-       d="M 994.45,638.43 451.64,640.77 523.35,337 916.2,335.31 Z"
-       id="path21"
-       style="fill:url(#prefix__c)" />
-    <path
-       fill="url(#prefix__d)"
-       d="M 380.27,617.06 23.93,391.06 176.78,185.26 462.92,323.24 Z"
-       id="path23"
-       style="fill:url(#prefix__d)" />
-    <path
-       fill="url(#prefix__e)"
-       d="M 905.25,0 1216.14,132.84 931.02,265.89 499.83,262.82 228.43,130.59 527.44,0 Z"
-       id="path25"
-       style="fill:url(#prefix__e)" />
-    <path
-       fill="url(#prefix__f)"
-       d="M 1060.73,620.27 1416.37,394.71 1253.84,193.04 978,326.5 Z"
-       id="path27"
-       style="fill:url(#prefix__f)" />
-    <path
-       fill="url(#prefix__g)"
-       d="m 1074.13,708.4 -251.74,543.11 614.92,-777.3 z"
-       id="path29"
-       style="fill:url(#prefix__g)" />
-  </g>
+     width="22586.301"
+     height="22586.301"
+     x="-0.00039062501"
+     y="-1068.5714" />
   <g
      aria-label="stashh"
      id="text3397"
-     style="font-size:7884.67px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;stroke-width:70.3989">
+     style="font-size:7884.67px;line-height:1.25;font-family:Stickler;-inkscape-font-specification:Stickler;stroke-width:70.3989"
+     transform="translate(-7347.892,5741.3071)">
     <path
        d="m 10346.396,6505.6898 q 520.388,181.3474 961.93,181.3474 662.312,0 1009.238,-244.4247 354.81,-252.3095 354.81,-685.9663 0,-299.6175 -118.27,-473.0802 -118.27,-173.4628 -307.502,-260.1941 -189.232,-94.6161 -536.158,-197.1168 l -157.693,-47.308 q -370.58,-118.27 -457.311,-173.4627 -149.809,-78.8467 -149.809,-205.0015 0,-126.1547 118.27,-181.3474 149.809,-63.0773 465.196,-63.0773 275.963,0 772.697,134.0394 v -638.6583 q -457.311,-110.3854 -780.582,-110.3854 -654.428,0 -969.814,220.7708 -315.387,212.8861 -315.387,607.1196 0,583.4655 583.465,843.6596 236.54,110.3854 583.466,212.8861 307.502,102.5007 417.887,157.6934 126.155,55.1927 126.155,165.5781 0,149.8087 -134.039,220.7708 -126.155,70.962 -465.196,70.962 -362.695,0 -1001.353,-220.7708 z"
        style="fill:#ffffff"
